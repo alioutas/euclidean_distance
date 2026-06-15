@@ -1,4 +1,4 @@
-# Euclidean Distance & 3D Point Cloud Clustering Analysis
+# Euclidean Distance of 3D Point Cloud Clustered data
 
 This repository contains an interactive analysis of Euclidean distance calculations, performance benchmarking between pure Python and NumPy, and a 2D projection visualization of a 3D point cloud dataset with centroid distance calculations.
 
